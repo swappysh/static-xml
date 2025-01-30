@@ -6,7 +6,7 @@
             "methods": [
                 "POST"
             ],
-            "dest": "/api/xml"
+            "dest": "/api/xml.js"
         }
     ],
     "functions": {
