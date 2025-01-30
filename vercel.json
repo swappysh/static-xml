@@ -1,18 +1,3 @@
 {
-    "version": 2,
-    "routes": [
-        {
-            "src": "/api/xml",
-            "methods": [
-                "POST"
-            ],
-            "dest": "/api/xml.js"
-        }
-    ],
-    "functions": {
-        "api/xml.js": {
-            "memory": 1024,
-            "maxDuration": 10
-        }
-    }
+    "version": 2
 }
