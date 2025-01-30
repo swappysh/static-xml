@@ -6,7 +6,13 @@
             "methods": [
                 "POST"
             ],
-            "dest": "/api/xml.js"
+            "dest": "/api/xml"
         }
-    ]
+    ],
+    "functions": {
+        "api/xml.js": {
+            "memory": 1024,
+            "maxDuration": 10
+        }
+    }
 }
